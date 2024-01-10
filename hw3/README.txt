@@ -1,0 +1,5 @@
+- Python 3.10.11
+- matplotlib      3.8.2
+- numpy           1.26.2
+- opencv-python   4.8.1.78
+- scipy           1.11.4

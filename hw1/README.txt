@@ -1,0 +1,4 @@
+- Python 3.10.11
+- matplotlib==3.8.0
+- numpy==1.26.0
+- opencv-python==4.8.1.78
